@@ -3,7 +3,7 @@ A simple attempt to model a budget app using a class. This model allows you crea
 
 ### How to install and Use this program
 - [Download and install Python 3]
-- (https://www.python.org/downloads/)
+ (https://www.python.org/downloads/)
 
 
 - Run the program with this command on Terminal
